@@ -17,7 +17,7 @@ rahulbelgaonkar1231\@gmail.com ·
 #line(length: 100%)
 
 #heading[Profile]
-Highly motivated software developer with a strong foundation in Java programming. Experienced in web development with Node.js and React, Bash, and recently explored Rust for low-level programming. Currently transitioning to DevOps, with hands-on experience in automation, cloud infrastructure, CI/CD pipelines, and containerization using Docker and Kubernetes. Eager to contribute technical expertise to deliver innovative and efficient solutions to complex problems.
+DevOps Engineer with expertise in automation, CI/CD pipelines, and cloud infrastructure. Proficient in Docker, Kubernetes, Jenkins, GitHub Actions, Terraform, and Ansible. Skilled in deploying scalable systems on AWS, GCP, and Azure.
 
 #line(length: 100%)
 
@@ -61,8 +61,10 @@ December 2024 – Present
 #line(length: 100%)
 
 #heading[Projects]
-#topic-header[CapstoneWired – Full‑Stack Capstone Project] |
-2024 | Tools: Node.js, Express, React, MySQL, Docker
+#topic-header[CapstoneWired – DevOps Capstone Project] |
+2024 | Tools: Docker, Kubernetes, GitHub Actions, Terraform
+
+•	Orchestrated containerized microservices with Kubernetes and automated deployment using GitHub Actions.
 
 •	Designed and implemented a complete web application architecture, including backend APIs (Node.js/Express) and frontend UI in React.
 
