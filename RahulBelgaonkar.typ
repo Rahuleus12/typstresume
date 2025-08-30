@@ -9,10 +9,11 @@
 
 #name-heading[Rahul Belgaonkar]
 
-Thane, Maharashtra, India ·
-+91 9820078391 ·
-rahulbelgaonkar1231\@gmail.com ·
-#link("https://www.linkedin.com/in/rahul-belgaonkar-8a1a9625b")[LinkedIn] · #link("https://github.com/your-github")[GitHub]
+Thane, Maharashtra, India
+|9820078391
+|rahulbelgaonkar1231\@gmail.com
+|#link("https://www.linkedin.com/in/rahul-belgaonkar-8a1a9625b")[LinkedIn]
+|#link("https://github.com/Rahuleus12")[GitHub]\
 
 #line(length: 100%)
 
@@ -27,13 +28,15 @@ DevOps Engineer with expertise in automation, CI/CD pipelines, and cloud infrast
 
 	•	Systems & Platforms: Linux (Ubuntu, Red Hat, Oracle, Debian), Windows Server
 
-	•	DevOps Tools: Docker, Kubernetes, Jenkins, Git, GitHub Actions, Terraform, Ansible
+	•	DevOps Tools: Docker, Kubernetes, Jenkins, Git, GitHub Actions, Terraform, Ansible,Helm, Prometheus, Grafana, ArgoCD, ELK Stack, SonarQube, Nexus, OpenShift
 
 	•	CI/CD: Jenkins, GitHub Actions
 
 	•	Cloud Platforms: AWS, Google Cloud Platform (GCP), Heroku, Azure
 
 	•	Databases: MySQL, Microsoft SQL, Firebase, MongoDB
+
+	•    DevSecOps: Trivy, HashiCorp Vault, SonarQube (Security), OWASP ZAP
 
 #line(length: 100%)
 
@@ -52,34 +55,37 @@ Symbiosis Institute of Computer Studies and Research | 2019 – 2022
 #topic-header[Comwizard Systems] |
 December 2024 – Present
 
-•	Developed and maintained frontend components using React.js, improving user experience and performance.
+•	Developed and maintained frontend components using React.js, improving user experience and performance while collaborated with the backend team to integrate APIs.
 
 •	Worked with SQL databases to migrate, manage and optimize data storage and retrieval.
 
-•	Collaborated with the backend team to integrate APIs and ensure seamless data flow.
+•	Migrated over 10,000 records and improved query performance by 40% in SQL databases.
 
+•	Integrated 5+ APIs, resulting in a 20% increase in data accuracy and workflow efficiency.
 #line(length: 100%)
 
 #heading[Projects]
-#topic-header[CapstoneWired – DevOps Capstone Project] |
+#topic-header[#link("https://github.com/Rahuleus12/InternSheep")[InternSheep]] |
 2024 | Tools: Docker, Kubernetes, GitHub Actions, Terraform
 
 •	Orchestrated containerized microservices with Kubernetes and automated deployment using GitHub Actions.
 
 •	Designed and implemented a complete web application architecture, including backend APIs (Node.js/Express) and frontend UI in React.
 
-•	Managed relational database schema in MySQL, optimizing queries and ensuring data integrity.
+•	Managed relational database in MySQL, optimized queries and ensuring data integrity.
 
-•	Containerized the entire stack using Docker for consistent development and deployment environments.
+•	Containerized the stack using Docker for consistent deployment environments.
 
 •	Deployed the project to a cloud environment and integrated CI/CD pipelines for automated builds.
 
-#topic-header[GSI: GamescopeInstallscript] |
+•	Achieved 99.9% uptime and reduced deployment time by 50% through automation.
+
+#topic-header[#link("https://github.com/Rahuleus12/Gamescopeinstallscript")[GSI: GamescopeInstallscript]] |
 November 2024 | Tools: Git, Bash
 
-•	Scripted automation to clone, install, and uninstall Gamescope on Linux, improving setup efficiency.
+•	Scripted automation to clone, install, and uninstall Gamescope on Linux.
 
-•	Reduced manual effort by 70% and optimized system setup for gaming workflows.
+•	Reduced manual effort by 70% and optimized system setup eliminating need for Desktop environments or Window managers and faster setups for cloud gaming.
 
 #topic-header[Milestone Realties Site] |
 June–July 2022 | Tools: WordPress, CSS, HTML
@@ -88,7 +94,9 @@ June–July 2022 | Tools: WordPress, CSS, HTML
 
 •	Enhanced UX and customer interaction through clean design and efficient deployment.
 
-#topic-header[Android Application] |
+•	Increased appointment bookings by 35% and reduced bounce rate by 20%.
+
+#topic-header[#link("https://github.com/Rahuleus12/Gary")[Android Application]] |
 April 2024 | Tools: Firebase, Kotlin
 
 •	Developed a barcode scanner with ML Kit to push scanned data into Firebase, displaying relevant info.
@@ -98,7 +106,9 @@ August 2020 | Tools: Node.js, JavaScript, Heroku, Oracle Cloud
 
 •	Created real-time content-serving apps with external data integrations like Discord.
 
-•	Transitioned services to Python and Oracle Cloud for improved performance and maintenance.
+•	Transitioned services to Python and Oracle Cloud for improved performance.
+
+•	Supported 10,000+ messages per month and reduced server costs by 30% after migration.
 
 #line(length: 100%)
 
