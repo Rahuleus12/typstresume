@@ -28,7 +28,7 @@ DevOps Engineer with expertise in automation, CI/CD pipelines, and cloud infrast
 
 	•	Systems & Platforms: Linux (Ubuntu, Red Hat, Oracle, Debian), Windows Server
 
-	•	DevOps Tools: Docker, Kubernetes, Jenkins, Git, GitHub Actions, Terraform, Ansible,Helm, Prometheus, Grafana, ArgoCD, ELK Stack, SonarQube, Nexus, OpenShift
+	•	DevOps Tools: Docker, Kubernetes, Git, GitHub Actions, Terraform, Ansible, Helm,\ #h(0.7em) Prometheus, Grafana, ArgoCD, ELK Stack, SonarQube, Nexus, OpenShift
 
 	•	CI/CD: Jenkins, GitHub Actions
 
@@ -55,7 +55,7 @@ Symbiosis Institute of Computer Studies and Research | 2019 – 2022
 #topic-header[Comwizard Systems] |
 December 2024 – Present
 
-•	Developed and maintained frontend components using React.js, improving user experience and performance while collaborated with the backend team to integrate APIs.
+•	Developed and maintained frontend components using React.js, improving user experience \ #h(0.6em) and performance while collaborated with the backend team to integrate APIs.
 
 •	Worked with SQL databases to migrate, manage and optimize data storage and retrieval.
 
@@ -68,15 +68,15 @@ December 2024 – Present
 #topic-header[#link("https://github.com/Rahuleus12/InternSheep")[InternSheep]] |
 2024 | Tools: Docker, Kubernetes, GitHub Actions, Terraform
 
-•	Orchestrated containerized microservices with Kubernetes and automated deployment using GitHub Actions.
+•	Orchestrated containerized microservices with Kubernetes and automated deployment\ #h(0.6em) using GitHub Actions.
 
-•	Designed and implemented a complete web application architecture, including backend APIs (Node.js/Express) and frontend UI in React.
+•	Designed and implemented a complete web application architecture, including backend\ #h(0.6em) APIs (Node.js/Express) and frontend UI in React.
 
 •	Managed relational database in MySQL, optimized queries and ensuring data integrity.
 
 •	Containerized the stack using Docker for consistent deployment environments.
 
-•	Deployed the project to a cloud environment and integrated CI/CD pipelines for automated builds.
+•	Deployed the project to a cloud environment and integrated CI/CD pipelines for\ #h(0.6em) automated builds.
 
 •	Achieved 99.9% uptime and reduced deployment time by 50% through automation.
 
@@ -85,12 +85,12 @@ November 2024 | Tools: Git, Bash
 
 •	Scripted automation to clone, install, and uninstall Gamescope on Linux.
 
-•	Reduced manual effort by 70% and optimized system setup eliminating need for Desktop environments or Window managers and faster setups for cloud gaming.
+•	Reduced manual effort by 70% and optimized system setup eliminating need for Desktop\ #h(0.6em) environments or Window managers and faster setups for cloud gaming.
 
 #topic-header[Milestone Realties Site] |
 June–July 2022 | Tools: WordPress, CSS, HTML
 
-•	Built and deployed a responsive real estate site with appointment booking and real-time updates.
+•	Built and deployed a responsive real estate site with appointment booking and real-time\ #h(0.6em) updates.
 
 •	Enhanced UX and customer interaction through clean design and efficient deployment.
 
@@ -99,7 +99,7 @@ June–July 2022 | Tools: WordPress, CSS, HTML
 #topic-header[#link("https://github.com/Rahuleus12/Gary")[Android Application]] |
 April 2024 | Tools: Firebase, Kotlin
 
-•	Developed a barcode scanner with ML Kit to push scanned data into Firebase, displaying relevant info.
+•	Developed a barcode scanner with ML Kit to push scanned data into Firebase, displaying\ #h(0.6em) relevant info.
 
 #topic-header[Node.js Applications] |
 August 2020 | Tools: Node.js, JavaScript, Heroku, Oracle Cloud
@@ -113,7 +113,7 @@ August 2020 | Tools: Node.js, JavaScript, Heroku, Oracle Cloud
 #line(length: 100%)
 
 #heading[Certifications]
-	•	Design Thinking and Logic Development — Symbiosis Institute of Computer Studies and Research, 2023
+	•	Design Thinking and Logic Development — Symbiosis Institute of Computer Studies and\ #h(0.6em) Research, 2023
 
 	•	Corporate Readiness — Symbiosis Institute of Computer Studies and Research, 2022
 
